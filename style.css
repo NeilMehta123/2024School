@@ -33,9 +33,10 @@ body {
    outline-color:#B4BEC9;
    font-weight: normal;
  }
- h5 {
+ h4 {
    font-weight: 900px;
    letter-spacing: 0.5px;
+   margin: 0.3%
  }
  .work {
     margin: 0%;
